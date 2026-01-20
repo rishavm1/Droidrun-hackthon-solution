@@ -1,0 +1,4 @@
+droidrun
+requests
+uiautomator2
+html
