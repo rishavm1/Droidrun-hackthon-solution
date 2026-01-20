@@ -1,4 +1,4 @@
-# 🛒 DroidRun Hackathon Solution - Smart Automatic Shopper
+# 🛒 DroidRun Hackathon Solution -  Automatic Shopper
 
 An AI-powered Android agent that autonomously finds the best deals across Amazon and Flipkart using computer vision and intelligent decision making.
 
